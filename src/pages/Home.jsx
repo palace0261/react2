@@ -14,7 +14,7 @@ const Contact = () => {
         contact이동
       </button>
       <div>{`현재 페이지 : ${location.pathname.slice(1)}`}</div>
-      <Link to="/contact">Contact 페이지로 이동하기</Link>
+      <Link to="/contact">Contact 페이지로 2506 05 이동하기</Link>
       <img
         src="https://cdn-saas-web-217-134.cdn-nhncommerce.com/soda0041079_godomall_com/data/img/sl/720-600-bp.png"
         width="100%"
